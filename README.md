@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with the Address-Book API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Download to the entire folder to your local machine
 
-## Available Scripts
+## Running the API
 
-In the project directory, you can run:
+Ensure a recent version of Python is installed computer (the project was tested using version `3.8.1`. 
+
+Set up a virtual environment and download the required packages using `pip install -r requirements.txt` (assuming pip is already installed on your machine). 
+
+
 
 ### `npm start`
 
