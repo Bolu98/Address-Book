@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.List-head {
+    text-align: center;
+}
+
+.Display-content {
+    display: flex;
+    justify-content: center;
+}
